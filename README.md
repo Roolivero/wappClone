@@ -10,6 +10,7 @@ chmod +x gradlew
 ```
 
 3) Para ejecutar el proyecto, pararse en la raíz del mimso y ejecutar:
+
 en la terminal 1:  
 
 ```bash

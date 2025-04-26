@@ -27,7 +27,7 @@ dependencies {
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
-    implementation("org.xerial:sqlite-jdbc:3.49.1.0")	
+    implementation("org.xerial:sqlite-jdbc:3.49.1.0")
 }
 
 
